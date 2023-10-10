@@ -1,0 +1,6 @@
+SMTP_USERNAME=mail-app/smtp
+SMTP_PASSWORD=
+FROM_EMAIL=faizal@example.com
+SMTP_HOSTNAME=127.0.0.1
+SMTP_PORT=25
+ENABLE_STARTTLS=False  # Set to True to enable STARTTLS, False to disable it
